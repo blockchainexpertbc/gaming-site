@@ -1,0 +1,180 @@
+{
+    "title": "aboutUsPage",
+    "pageType": "innerpage",
+    "content": [
+        {
+            "id": "our-studio-section",
+            "section": "our-studio-section",
+            "link": "https://www.youtube.com/watch?v=eS9Qm4AOOBY",
+            "images": [
+                {
+                    "src": "../../data/images/others/about-thumb.webp",
+                    "alt": "Panda"
+                }
+            ],
+            "headings": [
+                {
+                    "level": "h3",
+                    "content": "ABOUT BONX STUDIO"
+                },
+                {
+                    "level": "h2",
+                    "content": "bonx is the best gaming studio for all gamer."
+                }
+            ],
+            "items": [
+                {
+                    "id": "about-01",
+                    "description": "It is a long established fact that a reader will be distracted the readable content of page when looking at it layout the point using lorem Ipsum is that it has a more-or-less normal distribution."
+                },
+                {
+                    "id": "about-02",
+                    "description": "It is a long established fact that a reader will be distracted the readable content of page when looking at it layout the point using lorem Ipsum is that it has a more-or-less normal distribution."
+                }
+            ],
+            "buttons": [
+                {
+                    "id": 1,
+                    "size": "lg",
+                    "path": "/match",
+                    "content": "Play Now"
+                }
+            ]
+        },
+        {
+            "id": "our-team-section",
+            "section": "our-team-section",
+            "section_title": {
+                "showDescription": true,
+                "align": "center",
+                "heading": "MEET GAMER TEAM",
+                "description": "When unknown printer took type and scrambled it to make type specimen book centuries,"
+            },
+            "items": [
+                {
+                    "id": "our-team-01",
+                    "images": [
+                        {
+                            "src": "../../data/images/our-teams/team1.webp",
+                            "alt": "TASIA MANCUSO"
+                        }
+                    ],
+                    "name": "TASIA MANCUSO",
+                    "designation": "CEO & Founder"
+                },
+                {
+                    "id": "our-team-02",
+                    "images": [
+                        {
+                            "src": "../../data/images/our-teams/team2.webp",
+                            "alt": "ROSALINE EMMONS"
+                        }
+                    ],
+                    "name": "ROSALINE EMMONS",
+                    "designation": "Team Leader"
+                },
+                {
+                    "id": "our-team-03",
+                    "images": [
+                        {
+                            "src": "../../data/images/our-teams/team3.webp",
+                            "alt": "WILBURN BEHRENS"
+                        }
+                    ],
+                    "name": "WILBURN BEHRENS",
+                    "designation": "Team Member"
+                }
+            ],
+            "buttons": [
+                {
+                    "id": 1,
+                    "size": "lg",
+                    "path": "/",
+                    "content": "Join Our Team"
+                }
+            ]
+        },
+        {
+            "id": "testimonial-section",
+            "section": "testimonial-section",
+            "section_title": {
+                "showDescription": false,
+                "align": "left",
+                "heading": "WHAT PEOPLE’S SAY ABOUT GAME STUDIO",
+                "description": "When unknown printer took type and scrambled it to make type specimen book centuries,"
+            },
+            "items": [
+                {
+                    "id": "testimonial-01",
+                    "images": [
+                        {
+                            "src": "../../data/images/testimonial/testimonial-thumb.webp",
+                            "alt": "Panda"
+                        }
+                    ],
+                    "name": "Randolph Frazier",
+                    "designation": "Top Rated Gamer",
+                    "description": "Lorem long established fact that a reader will be distracted the readable content of page when looking at it layout the point using lorem Ipsum is that it has a more-or-less normal distribution lette as opposed to using  making it look like readable english, many desktop publishing packages and web page now editors."
+                },
+                {
+                    "id": "testimonial-02",
+                    "images": [
+                        {
+                            "src": "../../data/images/testimonial/testimonial-thumb.webp",
+                            "alt": "Panda"
+                        }
+                    ],
+                    "name": "Johan Puker",
+                    "designation": "Top Rated Gamer",
+                    "description": "It is a long established fact that a reader will be distracted the readable content of page when looking at it layout the point using lorem Ipsum is that it has a more-or-less normal distribution lette as opposed to using  making it look like readable english, many desktop publishing packages and web page now editors."
+                }
+            ]
+        },
+        {
+            "id": "funfact-section",
+            "section": "funfact-section",
+            "items": [
+                {
+                    "id": "funfact-01",
+                    "countNumber": 8697,
+                    "headings": [
+                        {
+                            "level": "h3",
+                            "content": "TWITCH STREAMS"
+                        }
+                    ]
+                },
+                {
+                    "id": "funfact-02",
+                    "countNumber": 520,
+                    "headings": [
+                        {
+                            "level": "h3",
+                            "content": "TOTAL GAMES"
+                        }
+                    ]
+                },
+                {
+                    "id": "funfact-03",
+                    "countNumber": 5367,
+                    "headings": [
+                        {
+                            "level": "h3",
+                            "content": "YOUTUBE STREAMS"
+                        }
+                    ]
+                },
+                {
+                    "id": "funfact-04",
+                    "countNumber": 249,
+                    "headings": [
+                        {
+                            "level": "h3",
+                            "content": "PRO TEAM"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

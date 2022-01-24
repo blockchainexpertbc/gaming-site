@@ -1,0 +1,109 @@
+{
+    "id": "game-04",
+    "title": "Space Exploration - HUNTER SHOOTER",
+    "gameThum": {
+        "src": "../../data/images/game/popular-game-thumb4.webp",
+        "alt": "Anonymous"
+    },
+    "categories": ["Drawing", "Game one"],
+    "date": "2021-01-02 13:01:00",
+    "updated": "2021-01-02",
+    "size": "98MB",
+    "installs": "80,000,000+",
+    "currentVersion": "03.00.28.00.00",
+    "inAppProducts": "$0.85 - $985.00",
+    "is_featured": true,
+    "quoteText": "Lorem Ipsum is simply dummy text of the printing and typesetting industry has been the industry's standard dummy text ever since the 1500 printer took galley of type scrambled it to make a type specimen book.",
+    "images": [
+        {
+            "src": "../../data/images/game/game-details-thumb.webp",
+            "alt": "Games Details"
+        },
+        {
+            "src": "../../data/images/game/game-details-thumb.webp",
+            "alt": "Games Details"
+        },
+        {
+            "src": "../../data/images/game/game-details-thumb.webp",
+            "alt": "Games Details"
+        }
+    ],
+    "buttons": [
+        {
+            "id": 1,
+            "size": "lg",
+            "content": "Game Details"
+        }
+    ],
+    "content": [
+        {
+            "id": "game-details-per-one",
+            "section": "game-details-per-one",
+            "items": [
+                {
+                    "id": "game-details-1",
+                    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500 when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap electro typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+                },
+                {
+                    "id": "game-details-2",
+                    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500 when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap electro typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+                }
+            ]
+        },
+        {
+            "id": "game-details-per-two",
+            "section": "game-details-per-two",
+            "headings": [{ "content": "DESCRIPTION:" }],
+            "items": [
+                {
+                    "id": "game-details-1",
+                    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500 when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap electro typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+                },
+                {
+                    "id": "game-details-2",
+                    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500 when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap electro typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+                }
+            ]
+        },
+        {
+            "id": "game-details-per-three",
+            "section": "game-details-per-three",
+            "headings": [{ "content": "FEATURES:" }],
+            "items": [
+                {
+                    "id": "game-details-1",
+                    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500 when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap electro typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+                },
+                {
+                    "id": "game-details-2",
+                    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500 when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap electro typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+                }
+            ]
+        },
+        {
+            "id": "game-details-per-whats-new",
+            "section": "game-details-per-whats-new",
+            "headings": [{ "content": "WHAT’S NEW!" }],
+            "items": [
+                {
+                    "id": "game-details-1",
+                    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500 when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap electro typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+                }
+            ]
+        },
+        {
+            "id": "game-details-per-04",
+            "section": "game-details-per-04",
+            "items": [
+                {
+                    "id": "game-details-1",
+                    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500 when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap electro typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+                },
+                {
+                    "id": "game-details-2",
+                    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500 when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap electro recently with desktop publishing software like including versions."
+                }
+            ]
+        }
+    ]
+}

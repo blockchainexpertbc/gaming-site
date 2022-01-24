@@ -1,0 +1,82 @@
+{
+    "title": "FAQPage",
+    "pageType": "innerpage",
+    "content": [
+        {
+            "id": "FAQ-section",
+            "section": "FAQ-section",
+            "items": [
+                {
+                    "id": "FAQ-01",
+                    "headings": [
+                        {
+                            "level": "h3",
+                            "content": "HOW CAN I CONTACT THE TEAM FOR HELP?"
+                        }
+                    ],
+                    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been industry standard unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five reIcentem with desktop publishing softwa like including versions has been industry standard unknown printer took a galley of type and scramIblrd it to make a type specimen book ha with desktop publishing software like including versions."
+                },
+                {
+                    "id": "FAQ-02",
+                    "headings": [
+                        {
+                            "level": "h3",
+                            "content": "What should I do if I’m missing a part?"
+                        }
+                    ],
+                    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been industry standard unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five reIcentem with desktop publishing softwa like including versions has been industry standard unknown printer took a galley of type and scramIblrd it to make a type specimen book ha with desktop publishing software like including versions."
+                },
+                {
+                    "id": "FAQ-03",
+                    "headings": [
+                        {
+                            "level": "h3",
+                            "content": "Can I play bonx more than once?"
+                        }
+                    ],
+                    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been industry standard unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five reIcentem with desktop publishing softwa like including versions has been industry standard unknown printer took a galley of type and scramIblrd it to make a type specimen book ha with desktop publishing software like including versions."
+                },
+                {
+                    "id": "FAQ-04",
+                    "headings": [
+                        {
+                            "level": "h3",
+                            "content": "Are there any expansion packs on the way?"
+                        }
+                    ],
+                    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been industry standard unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five reIcentem with desktop publishing softwa like including versions has been industry standard unknown printer took a galley of type and scramIblrd it to make a type specimen book ha with desktop publishing software like including versions."
+                },
+                {
+                    "id": "FAQ-05",
+                    "headings": [
+                        {
+                            "level": "h3",
+                            "content": "Where can I find the items so that I can print them again?"
+                        }
+                    ],
+                    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been industry standard unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five reIcentem with desktop publishing softwa like including versions has been industry standard unknown printer took a galley of type and scramIblrd it to make a type specimen book ha with desktop publishing software like including versions."
+                },
+                {
+                    "id": "FAQ-06",
+                    "headings": [
+                        {
+                            "level": "h3",
+                            "content": "When I enter a correct code it says that it’s incorrect"
+                        }
+                    ],
+                    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been industry standard unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five reIcentem with desktop publishing softwa like including versions has been industry standard unknown printer took a galley of type and scramIblrd it to make a type specimen book ha with desktop publishing software like including versions."
+                },
+                {
+                    "id": "FAQ-07",
+                    "headings": [
+                        {
+                            "level": "h3",
+                            "content": "Is it possible to pause the bonx tournament?"
+                        }
+                    ],
+                    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been industry standard unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five reIcentem with desktop publishing softwa like including versions has been industry standard unknown printer took a galley of type and scramIblrd it to make a type specimen book ha with desktop publishing software like including versions."
+                }
+            ]
+        }
+    ]
+}

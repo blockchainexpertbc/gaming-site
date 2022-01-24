@@ -1,0 +1,95 @@
+{
+    "id": "menu-data",
+    "section": "menu",
+    "menu": [
+        {
+            "id": "menu-1",
+            "text": "Home",
+            "link": "/"
+        },
+        {
+            "id": "menu-2",
+            "text": "Match",
+            "link": "/match"
+        },
+        {
+            "id": "menu-3",
+            "text": "Pages",
+            "link": "/faq",
+            "submenu": [
+                {
+                    "id": "menu-31",
+                    "text": "About Us Page",
+                    "link": "/about-us"
+                },
+                {
+                    "id": "menu-32",
+                    "text": "Games Page",
+                    "link": "/games"
+                },
+                {
+                    "id": "menu-33",
+                    "text": "FAQ's Page",
+                    "link": "/faq"
+                },
+                {
+                    "id": "menu-34",
+                    "text": "Game players",
+                    "link": "/players"
+                },
+                {
+                    "id": "menu-35",
+                    "text": "404 not found!",
+                    "link": "/404"
+                }
+            ]
+        },
+        {
+            "id": "menu-4",
+            "text": "blog",
+            "link": "/blog-grid-without-sidebar",
+            "submenu": [
+                {
+                    "id": "menu-41",
+                    "text": "Blog Without Sidebar Page",
+                    "link": "/blog-without-sidebar"
+                },
+                {
+                    "id": "menu-42",
+                    "text": "Blog Left Sidebar Page",
+                    "link": "/blog-left-sidebar"
+                },
+                {
+                    "id": "menu-43",
+                    "text": "Blog Right Sidebar Page",
+                    "link": "/blog-right-sidebar"
+                },
+                {
+                    "id": "menu-44",
+                    "text": "Blog Grid Left Sidebar Page",
+                    "link": "/blog-grid-left-sidebar"
+                },
+                {
+                    "id": "menu-45",
+                    "text": "Blog Grid Without Sidebar",
+                    "link": "/blog-grid-without-sidebar"
+                },
+                {
+                    "id": "menu-46",
+                    "text": "Blog Grid Left Sidebar",
+                    "link": "/blog-grid-left-sidebar"
+                },
+                {
+                    "id": "menu-47",
+                    "text": "Blog Grid Right Sidebar",
+                    "link": "/blog-grid-right-sidebar"
+                }
+            ]
+        },
+        {
+            "id": "menu-5",
+            "text": "Contact",
+            "link": "/contact-us"
+        }
+    ]
+}

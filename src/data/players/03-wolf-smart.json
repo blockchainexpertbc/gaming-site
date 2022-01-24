@@ -1,0 +1,46 @@
+{
+    "id": "players-03",
+    "title": "SPACE GAME EXPERT 2",
+    "name": "WOLF SMART",
+    "needLavel": "36 LEVEL COMPLETED",
+    "image": {
+        "src": "../../data/images/game-players/player-3.webp",
+        "alt": "Anonymous"
+    },
+    "socials": [
+        {
+            "id": 1,
+            "icon": "icofont-twitch",
+            "link": "https://www.twitch.tv",
+            "title": "twitch"
+        },
+        {
+            "id": 2,
+            "icon": "icofont-facebook",
+            "link": "https://www.facebook.com",
+            "title": "facebook"
+        },
+        {
+            "id": 3,
+            "icon": "icofont-youtube-play",
+            "link": "https://www.youtube.com",
+            "title": "youtube"
+        },
+        {
+            "id": 4,
+            "icon": "icofont-twitter",
+            "link": "https://www.twitter.com",
+            "title": "twitter"
+        }
+    ],
+    "items": [
+        {
+            "id": "players-desction-01",
+            "description": "It is a long established fact that a reader will be distracted readable content page when looking at it layout the point using lorem Ipsum that it has more-or-less normal distribution lette desktop packages and web page now editors."
+        },
+        {
+            "id": "players-desction-02",
+            "description": "It is a long established fact that a reader will be distracted readable content page when looking at it layout the point using lorem Ipsum that it has more-or-less normal distribution lette desktop packages and web page now editors."
+        }
+    ]
+}

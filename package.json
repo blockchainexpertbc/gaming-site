@@ -1,0 +1,77 @@
+{
+  "name": "gatsby-starter-default",
+  "private": true,
+  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "version": "0.1.0",
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "dependencies": {
+    "classnames": "^2.3.1",
+    "disqus-react": "^1.1.2",
+    "gatsby": "^4.2.0",
+    "gatsby-plugin-breadcrumb": "^12.2.0",
+    "gatsby-plugin-image": "^2.0.0",
+    "gatsby-plugin-manifest": "^4.0.0",
+    "gatsby-plugin-offline": "^5.0.0",
+    "gatsby-plugin-purgecss": "^6.0.2",
+    "gatsby-plugin-react-helmet": "^5.0.0",
+    "gatsby-plugin-sharp": "^4.0.0",
+    "gatsby-plugin-svgr-loader": "^0.1.0",
+    "gatsby-remark-images": "^6.0.0",
+    "gatsby-source-filesystem": "^4.0.0",
+    "gatsby-transformer-json": "^4.0.0",
+    "gatsby-transformer-remark": "^5.0.0",
+    "gatsby-transformer-sharp": "^4.0.0",
+    "prop-types": "^15.7.2",
+    "react": "^17.0.2",
+    "react-accessible-accordion": "^4.0.0",
+    "react-countup": "^6.1.0",
+    "react-dom": "^17.0.2",
+    "react-helmet": "^6.1.0",
+    "react-modal-video": "^1.2.8",
+    "react-portal": "^4.2.1",
+    "react-visibility-sensor": "^5.1.1",
+    "swiper": "^7.1.0",
+    "tailwind-pseudo-elements": "^0.4.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.3.7",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.32.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-import": "^2.24.2",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-react": "^7.25.1",
+    "eslint-plugin-react-hooks": "^4.2.0",
+    "gatsby-plugin-postcss": "^5.0.0",
+    "postcss": "^8.3.11",
+    "prettier": "^2.3.2",
+    "tailwindcss": "^2.2.17",
+    "tailwindcss-pseudo-elements": "^2.0.0"
+  },
+  "keywords": [
+    "gatsby"
+  ],
+  "license": "0BSD",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "develop:share": "gatsby develop -H 0.0.0.0 -p 8000",
+    "format": "prettier --write \"**/*.{js,jsx,,json,md}\"",
+    "start": "npm run develop",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean",
+    "build:prefix": "gatsby build --prefix-paths",
+    "serve:prefix": "gatsby serve --prefix-paths",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1",
+    "lint": "eslint --ignore-path .gitignore . --ext js --ext jsx",
+    "lint:fix": "npm run format & npm run lint --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+  },
+  "bugs": {
+    "url": "https://github.com/gatsbyjs/gatsby/issues"
+  }
+}

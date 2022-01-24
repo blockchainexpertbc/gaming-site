@@ -1,0 +1,52 @@
+{
+    "title": "matchPage",
+    "pageType": "innerpage",
+    "content": [
+        {
+            "id": "funfact-section",
+            "section": "funfact-section",
+            "items": [
+                {
+                    "id": "funfact-01",
+                    "countNumber": 8697,
+                    "headings": [
+                        {
+                            "level": "h3",
+                            "content": "TWITCH STREAMS"
+                        }
+                    ]
+                },
+                {
+                    "id": "funfact-02",
+                    "countNumber": 520,
+                    "headings": [
+                        {
+                            "level": "h3",
+                            "content": "TOTAL GAMES"
+                        }
+                    ]
+                },
+                {
+                    "id": "funfact-03",
+                    "countNumber": 5367,
+                    "headings": [
+                        {
+                            "level": "h3",
+                            "content": "YOUTUBE STREAMS"
+                        }
+                    ]
+                },
+                {
+                    "id": "funfact-04",
+                    "countNumber": 249,
+                    "headings": [
+                        {
+                            "level": "h3",
+                            "content": "PRO TEAM"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

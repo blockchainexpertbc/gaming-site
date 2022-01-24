@@ -1,0 +1,64 @@
+{
+    "id": "match-02",
+    "title": "ROAR SPRING GAME 2021",
+    "date": "2021-01-01 06:01:00",
+    "teams": ["Panda", "Anonymous"],
+    "registeredTeams": "04",
+    "playerNumber": "24",
+    "teamNubmber": "02",
+    "winningPrize": "5,100",
+    "is_featured": true,
+    "quoteText": "Lorem Ipsum is simply dummy text of the printing and typesetting industry has been the industry's standard dummy text ever since the 1500 printer took galley of type scrambled it to make a type specimen book.",
+    "liveStreaming": {
+        "id": "watch-live-1",
+        "headings": [
+            {
+                "level": "h3",
+                "content": "Watch Live Streaming"
+            }
+        ],
+        "images": [
+            {
+                "src": "../../data/images/live-video/gaming-bg1.webp",
+                "alt": "LIVE STREAMING"
+            }
+        ],
+        "link": "https://www.youtube.com/watch?v=eS9Qm4AOOBY"
+    },
+    "images": [
+        {
+            "src": "../../data/images/team-logo/game-vs1.webp",
+            "alt": "VS"
+        }
+    ],
+    "content": [
+        {
+            "id": "game-details-per-one",
+            "section": "game-details-per-one",
+            "items": [
+                {
+                    "id": "game-details-1",
+                    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500 when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap electro typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+                },
+                {
+                    "id": "game-details-2",
+                    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500 when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap electro typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+                }
+            ]
+        },
+        {
+            "id": "game-details-per-two",
+            "section": "game-details-per-two",
+            "items": [
+                {
+                    "id": "game-details-1",
+                    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500 when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap electro typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+                },
+                {
+                    "id": "game-details-2",
+                    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500 when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap electro typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+                }
+            ]
+        }
+    ]
+}

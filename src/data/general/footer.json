@@ -1,0 +1,113 @@
+{
+    "id": "footer-data",
+    "section": "footer",
+    "footer": [
+        {
+            "id": "footer-1",
+            "text": "It long estabhed fact that reader will ditracted the readable content looking using readable.",
+            "socials": [
+                {
+                    "id": 1,
+                    "icon": "icofont-facebook",
+                    "link": "https://www.facebook.com",
+                    "title": "facebook"
+                },
+                {
+                    "id": 2,
+                    "icon": "icofont-dribbble",
+                    "link": "https://dribbble.com",
+                    "title": "dribbble"
+                },
+                {
+                    "id": 3,
+                    "icon": "icofont-youtube-play",
+                    "link": "https://www.youtube.com",
+                    "title": "youtube"
+                },
+                {
+                    "id": 4,
+                    "icon": "icofont-twitter",
+                    "link": "https://www.twitter.com",
+                    "title": "twitter"
+                }
+            ]
+        },
+        {
+            "id": "footer-2",
+            "title": "CONTACT",
+            "contact_info": [
+                {
+                    "id": "contact_info-21",
+                    "title": "Location",
+                    "text": "136 Harding Ave Wheeling, West Virginia"
+                },
+                {
+                    "id": "contact_info-22",
+                    "title": "Phone",
+                    "text": "00 (62) 632 867 4497"
+                }
+            ]
+        },
+        {
+            "id": "footer-3",
+            "title": "Information",
+            "images": [
+                {
+                    "src": "../../data/images/team-logo/upcoming-game-thumb1.webp",
+                    "alt": "GAME TOURNAMENTS"
+                },
+                {
+                    "src": "../../data/images/team-logo/upcoming-game-thumb2.webp",
+                    "alt": "LIVE STREAMING"
+                },
+                {
+                    "src": "../../data/images/team-logo/upcoming-game-thumb3.webp",
+                    "alt": "GAME TOURNAMENTS"
+                },
+                {
+                    "src": "../../data/images/team-logo/upcoming-game-thumb4.webp",
+                    "alt": "LIVE STREAMING"
+                },
+                {
+                    "src": "../../data/images/team-logo/upcoming-game-thumb5.webp",
+                    "alt": "GAME TOURNAMENTS"
+                },
+                {
+                    "src": "../../data/images/team-logo/upcoming-game-thumb6.webp",
+                    "alt": "LIVE STREAMING"
+                }
+            ]
+        },
+        {
+            "id": "footer-4",
+            "title": "Follow Us",
+            "list": [
+                {
+                    "id": "footer-follow-01",
+                    "text": "Copywriting",
+                    "link": "https://dribbble.com"
+                },
+                {
+                    "id": "footer-follow-02",
+                    "text": "Social Media",
+                    "link": "https://dribbble.com"
+                },
+                {
+                    "id": "footer-follow-03",
+                    "text": "Interactive Media",
+                    "link": "https://dribbble.com"
+                },
+                {
+                    "id": "footer-follow-04",
+                    "text": "Motion Design",
+                    "link": "https://dribbble.com"
+                },
+                {
+                    "id": "footer-follow-05",
+                    "text": "Illustration",
+                    "link": "https://dribbble.com"
+                }
+            ]
+        }
+    ]
+}

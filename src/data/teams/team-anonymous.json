@@ -1,0 +1,82 @@
+{
+    "id": "team-03",
+    "name": "Anonymous",
+    "logo": {
+        "src": "../../data/images/team-logo/upcoming-game-thumb3.webp",
+        "alt": "Anonymous"
+    },
+
+    "description": "UI/UX - Designer",
+    "teamPlayer": [
+        {
+            "id": "player-01",
+            "name": "Mark Jone",
+            "images": [
+                {
+                    "src": "../../data/images/team-players/players1.webp",
+                    "alt": "Panda"
+                }
+            ]
+        },
+        {
+            "id": "player-02",
+            "name": "Mark Jone",
+            "images": [
+                {
+                    "src": "../../data/images/team-players/players2.webp",
+                    "alt": "Panda"
+                }
+            ]
+        },
+        {
+            "id": "player-03",
+            "name": "Mark Jone",
+            "images": [
+                {
+                    "src": "../../data/images/team-players/players3.webp",
+                    "alt": "Panda"
+                }
+            ]
+        },
+        {
+            "id": "player-04",
+            "name": "Mark Jone",
+            "images": [
+                {
+                    "src": "../../data/images/team-players/players4.webp",
+                    "alt": "Panda"
+                }
+            ]
+        },
+        {
+            "id": "player-05",
+            "name": "Mark Jone",
+            "images": [
+                {
+                    "src": "../../data/images/team-players/players5.webp",
+                    "alt": "Panda"
+                }
+            ]
+        },
+        {
+            "id": "player-06",
+            "name": "Mark Jone",
+            "images": [
+                {
+                    "src": "../../data/images/team-players/players6.webp",
+                    "alt": "Panda"
+                }
+            ]
+        },
+        {
+            "id": "player-07",
+            "name": "Mark Jone",
+            "images": [
+                {
+                    "src": "../../data/images/team-players/players3.webp",
+                    "alt": "Panda"
+                }
+            ]
+        }
+    ]
+}

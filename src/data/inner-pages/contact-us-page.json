@@ -1,0 +1,108 @@
+{
+    "title": "contactUsPage",
+    "pageType": "innerpage",
+    "content": [
+        {
+            "id": "contact-us-info-section",
+            "section": "contact-us-info-section",
+            "items": [
+                {
+                    "id": "contact-us-info-1",
+                    "headings": [
+                        {
+                            "level": "h3",
+                            "content": "EMAIL:"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../../data/images/icons/email.webp",
+                            "alt": "LIVE STREAMING"
+                        },
+                        {
+                            "src": "../../data/images/features/gaming-world-bg2.webp",
+                            "alt": "LIVE STREAMING"
+                        }
+                    ],
+                    "action_link": [
+                        {
+                            "title": "gamestudio@gmail.com",
+                            "link": "mailto:gamestudio@gmail.com"
+                        },
+                        {
+                            "title": "support24@gmail.com",
+                            "link": "mailto:support24@gmail.com"
+                        }
+                    ]
+                },
+                {
+                    "id": "contact-us-info-2",
+                    "headings": [
+                        {
+                            "level": "h3",
+                            "content": "LOCATION:"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../../data/images/icons/location.webp",
+                            "alt": "GAME NEWS"
+                        },
+                        {
+                            "src": "../../data/images/features/gaming-world-bg2.webp",
+                            "alt": "LIVE STREAMING"
+                        }
+                    ],
+                    "description": "100 N Aurora Ave #APT 19 Oakland, Nebraska(NE), 68045"
+                },
+                {
+                    "id": "contact-us-info-3",
+                    "headings": [
+                        {
+                            "level": "h3",
+                            "content": "PHONE:"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../../data/images/icons/phone.webp",
+                            "alt": "PHONE"
+                        },
+                        {
+                            "src": "../../data/images/features/gaming-world-bg2.webp",
+                            "alt": "LIVE STREAMING"
+                        }
+                    ],
+                    "action_link": [
+                        {
+                            "title": "(402) 685-5964",
+                            "link": "tel:(402) 685-5964"
+                        },
+                        {
+                            "title": "+88 (00) 4568 457 437",
+                            "link": "tel:+88 (00) 4568 457 437"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "contact-us-form-section",
+            "section": "contact-us-form-section",
+            "section_title": {
+                "showDescription": true,
+                "align": "center",
+                "heading": "GET IN TOUCH",
+                "description": "When unknown printer took type and scrambled it to make type specimen book centuries,"
+            },
+            "buttons": [
+                {
+                    "id": 1,
+                    "size": "lg",
+                    "path": "/",
+                    "content": "SUBMIT NOW "
+                }
+            ]
+        }
+    ]
+}
